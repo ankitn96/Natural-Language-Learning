@@ -1,0 +1,11 @@
+{
+  "model_class": "GoalConditionedAttentionBiLSTM",
+  "vocab_size": 12042,
+  "embedding_dim": 128,
+  "hidden_size": 64,
+  "pad_id": 0,
+  "dropout": 0.2,
+  "use_self_attention": true,
+  "use_cross_attention": true,
+  "max_length": 128
+}
